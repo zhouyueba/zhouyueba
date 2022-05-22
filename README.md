@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhouyueba
-- 👀 I’m interested in Coding,Reading.
+- 👀 I’m interested in coding,reading.
 - 🌱 I’m currently learning iOS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
